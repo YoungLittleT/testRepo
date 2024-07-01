@@ -1,5 +1,5 @@
 {
-	"author": "fcc-learn-npm-package-json",
+	"author": "zhuht",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
