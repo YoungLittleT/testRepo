@@ -1,3 +1,7 @@
 {
-	"author": "zhuht"
+	"author": "zhuht",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/YoungLittleT/testRepo.git"
+	}
 }
